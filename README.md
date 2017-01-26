@@ -1,0 +1,2 @@
+# smallslider
+Sidebar Slider
